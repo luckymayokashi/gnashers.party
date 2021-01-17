@@ -1,1 +1,13 @@
-.simple-slider .swiper-slide{height:500px;background-repeat:no-repeat;background-size:cover;background-position:center}.simple-slider .swiper-button-next,.simple-slider .swiper-button-prev{width:50px;margin-left:20px;margin-right:20px}@media (max-width:767px){.simple-slider .swiper-button-next,.simple-slider .swiper-button-prev{display:none}.simple-slider .swiper-slide{height:360px}}#outer_body{height:100vh;background:url(../../assets/img/IMG_8636.jpeg) center/cover no-repeat,#4b2aab}#top_zaddy{color:var(--white);height:13%;font-size:6.5vw;font-weight:700;text-shadow:5px 4px 0 #511e26}@media (max-width:774px){#top_zaddy{font-size:44px;height:200px}}@media (min-width:2000px){#top_zaddy{font-size:90px}}#vishal_bottom{height:56%;background:#511e26;color:var(--light);text-align:center}.h2,h2{height:39px;font-size:45px}.simple-slider{z-index:2;position:absolute}body{font-family:Poppins,sans-serif;font-weight:700;background:#000}#downer{font-size:30px}.fa.fa-angle-down{color:#fff;font-size:65px;text-shadow:5px 4px 0 #511e26}
+.simple-slider .swiper-slide{height:500px;background-repeat:no-repeat;background-size:cover;background-position:center}.simple-slider .swiper-button-next,.simple-slider .swiper-button-prev{width:50px;margin-left:20px;margin-right:20px}@media (max-width:767px){.simple-slider .swiper-button-next,.simple-slider .swiper-button-prev{display:none}.simple-slider .swiper-slide{height:360px}}#outer_body{height:100vh;background:url(../../assets/img/IMG_8636.jpeg) center/cover no-repeat,#4b2aab}#top_zaddy{color:var(--white);height:13%;font-size:6.5vw;font-weight:700;text-shadow:5px 4px 0 #511e26}@media (max-width:774px){#top_zaddy{font-size:44px;height:200px}}@media (min-width:2000px){#top_zaddy{font-size:90px}}#vishal_bottom{height:56%;background:#511e26;color:var(--light);text-align:center}.h2,h2{height:39px;font-size:45px}.simple-slider{z-index:2;position:absolute}body{font-family:Poppins,sans-serif;font-weight:700;background:#000}
+#downer{
+    font-size:20px;
+    color: #fff;
+    margin-bottom: 120px;
+    background-color: #511e26;
+}
+.fa.fa-angle-down{color:#fff;font-size:65px;text-shadow:5px 4px 0 #511e26}
+
+.join {
+    width: 40%;
+    
+}
